@@ -1,0 +1,39 @@
+@import "tailwindcss";
+
+:root {
+  --background: #000000;
+  --foreground: #ffffff;
+  --accent: #3b82f6;
+  --accent-glow: rgba(59, 130, 246, 0.5);
+}
+
+[data-theme="cyberpunk"] {
+  --background: #050014;
+  --foreground: #f3e8ff;
+  --accent: #ec4899;
+  --accent-glow: rgba(236, 72, 153, 0.5);
+}
+
+[data-theme="matrix"] {
+  --background: #000a00;
+  --foreground: #dcfce7;
+  --accent: #22c55e;
+  --accent-glow: rgba(34, 197, 94, 0.5);
+}
+
+@theme inline {
+  --color-background: var(--background);
+  --color-foreground: var(--foreground);
+  --color-accent: var(--accent);
+  --color-accent-glow: var(--accent-glow);
+  --font-sans: var(--font-outfit);
+  --font-mono: var(--font-geist-mono);
+}
+
+body {
+  background: var(--background);
+  color: var(--foreground);
+  font-family: var(--font-sans), sans-serif;
+  overflow-x: hidden;
+  scroll-behavior: smooth;
+}

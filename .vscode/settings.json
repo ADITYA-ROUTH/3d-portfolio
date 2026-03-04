@@ -1,0 +1,5 @@
+{
+    "css.lint.unknownAtRules": "ignore",
+    "html.validate.scripts": false,
+    "git.ignoreLimitWarning": true
+}

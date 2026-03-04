@@ -1,0 +1,16 @@
+{
+    "name": "Aditya Routh — 3D Portfolio",
+    "short_name": "Aditya Portfolio",
+    "description": "Immersive 3D portfolio showcasing AI/ML projects and interactive web experiences.",
+    "start_url": "/",
+    "display": "standalone",
+    "background_color": "#000000",
+    "theme_color": "#3b82f6",
+    "icons": [
+        {
+            "src": "/favicon.ico",
+            "sizes": "any",
+            "type": "image/x-icon"
+        }
+    ]
+}
