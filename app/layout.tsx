@@ -17,7 +17,7 @@ const geistMono = Geist_Mono({
   subsets: ["latin"],
 });
 
-const siteUrl = "https://3d-portfolio-aditya.vercel.app";
+const siteUrl = "https://3d-portfolio-khf5-bwj4efq5q-aditya-rouths-projects.vercel.app";
 
 export const metadata: Metadata = {
   // ── Core ──────────────────────────────────────────────
