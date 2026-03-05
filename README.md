@@ -21,7 +21,7 @@
   <a href="https://github.com/ADITYA-ROUTH/3d-portfolio/issues">
     <img src="https://img.shields.io/github/issues/ADITYA-ROUTH/3d-portfolio?style=for-the-badge&logo=github&color=ef4444&logoColor=white" alt="Issues"/>
   </a>
-  <a href="https://adityarouth.vercel.app">
+  <a href="https://3d-portfolio-aditya.vercel.app">
     <img src="https://img.shields.io/badge/Deployed%20on-Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Vercel Deploy"/>
   </a>
   <a href="#">
@@ -33,7 +33,7 @@
 </p>
 
 <p align="center">
-  <a href="https://adityarouth.vercel.app" target="_blank">
+  <a href="https://3d-portfolio-aditya.vercel.app" target="_blank">
     <img src="https://img.shields.io/badge/🚀%20View%20Live%20Demo-adityarouth.vercel.app-6366f1?style=for-the-badge" alt="Live Demo"/>
   </a>
 </p>
@@ -245,10 +245,10 @@ npm run lint       # Run ESLint
 
 | Section | Preview |
 |---|---|
-| **Hero — 3D Scene** | [View Live →](https://adityarouth.vercel.app) |
-| **Projects Showcase** | [View Live →](https://adityarouth.vercel.app/#projects) |
-| **Skills Galaxy** | [View Live →](https://adityarouth.vercel.app/#skills) |
-| **AI Chatbot** | [View Live →](https://adityarouth.vercel.app) |
+| **Hero — 3D Scene** | [View Live →](https://3d-portfolio-aditya.vercel.app) |
+| **Projects Showcase** | [View Live →](https://3d-portfolio-aditya.vercel.app/#projects) |
+| **Skills Galaxy** | [View Live →](https://3d-portfolio-aditya.vercel.app/#skills) |
+| **AI Chatbot** | [View Live →](https://3d-portfolio-aditya.vercel.app) |
 
 ---
 
@@ -321,7 +321,7 @@ npm run build
 npm run start
 ```
 
-**Live Project:** [https://adityarouth.vercel.app](https://adityarouth.vercel.app)
+**Live Project:** [https://3d-portfolio-aditya.vercel.app](https://3d-portfolio-aditya.vercel.app)
 
 ---
 
@@ -378,7 +378,7 @@ Distributed under the **MIT License**. See [`LICENSE`](LICENSE) for more informa
   <a href="mailto:premrouth00@gmail.com">
     <img src="https://img.shields.io/badge/Email-premrouth00%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
-  <a href="https://adityarouth.vercel.app">
+  <a href="https://3d-portfolio-aditya.vercel.app">
     <img src="https://img.shields.io/badge/Portfolio-adityarouth.vercel.app-6366f1?style=for-the-badge&logo=vercel&logoColor=white"/>
   </a>
 </p>
@@ -392,7 +392,7 @@ Distributed under the **MIT License**. See [`LICENSE`](LICENSE) for more informa
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer" width="100%"/>
 
 <p>
-  <sub>Built with ❤️ by <a href="https://adityarouth.vercel.app">Aditya Routh</a> — If you found this useful, please consider giving it a ⭐</sub>
+  <sub>Built with ❤️ by <a href="https://3d-portfolio-aditya.vercel.app">Aditya Routh</a> — If you found this useful, please consider giving it a ⭐</sub>
 </p>
 
 </div>
